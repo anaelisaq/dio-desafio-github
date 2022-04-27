@@ -1,0 +1,26 @@
+ctrl n > criar novo projeto/classe/etc
+
+main ctrl espaço > cria o main
+
+sysout ctrl espaço > cria System.out.println();
+
+ctrl s > salvar
+
+f2 > renomear arquivo
+
+ctrl 3 constructor/getters and setters > cria construtor/get-set com atributos
+
+alt seta cima/seta baixo > move bloco de código
+
+ctrl shift o > importa pacote
+
+------- versionamento
+
+botão direito em cima do projeto > team > share project
+
+cria repositório local
+
+botão direito > team > commit > push
+
+cola o caminho do repositório remoto
+

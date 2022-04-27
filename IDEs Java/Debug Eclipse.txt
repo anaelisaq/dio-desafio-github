@@ -1,0 +1,9 @@
+debug: encontrar e corrigir erros que aparecem no programa
+
+colocar break point na linha que tem erro
+para o programa pra debugar
+
+f6 > linha por linha
+f5 > classe por classe
+
+ctrl shit w > fecha tudo
