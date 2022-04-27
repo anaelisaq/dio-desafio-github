@@ -1,0 +1,11 @@
+git init > iniciar um repositório local
+
+git clone > clonar repositório remoto
+
+git status > verificar status do repositório
+
+git add . > faz o controle de versionamento
+
+git commit -m "insira a mensagem aqui" > commitar com descrição/comentário coerente da mudança feita
+
+git push origin main/outra-branch > encaminha os commits locais para a nuvem na branch selecionada
